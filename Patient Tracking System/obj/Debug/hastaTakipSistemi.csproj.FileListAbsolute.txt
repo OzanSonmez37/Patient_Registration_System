@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\bin\Debug\hastaTakipSistemi.exe.config
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\bin\Debug\hastaTakipSistemi.exe
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\bin\Debug\hastaTakipSistemi.pdb
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.Form1.resources
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.exe
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.pdb
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.exe.config
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.frmKayit.resources
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.frmAnaSayfa.resources
+C:\Users\PC\Desktop\hastaTakipSistemi\hastaTakipSistemi\obj\Debug\hastaTakipSistemi.frmIstatistic.resources
